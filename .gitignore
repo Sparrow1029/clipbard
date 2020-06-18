@@ -1,0 +1,13 @@
+# pyinstaller files
+build/
+dist/
+*.spec
+
+# other python files
+__pycache__
+*.py[cod]
+venv/
+
+# hidden system/editor files
+.DS_Store
+*.sw[po]
