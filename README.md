@@ -22,3 +22,6 @@ The app runs with a window and system tray icon.
 ### TODO:
 - [ ] Incorporate a RDBMS system like SQLite3 (instead of simple JSON file) to add dates, hashing, etc to history data
 - [ ] Test functionality with Windows / MacOS
+- [ ] Once RDBM is used, make clipboard history searchable (fuzzy/elasticsearch?)
+- [ ] Allow users to add manual entries to clipboard
+- [ ] Edit (and re-order?) entries
